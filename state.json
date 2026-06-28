@@ -1,14 +1,14 @@
 {
-  "episode": 49,
-  "end": "2026-06-14",
-  "deflation": 15.5,
+  "episode": 50,
+  "end": "2026-06-27",
+  "deflation": 15.3,
   "readings": [
     {
-      "date": "2026-06-27",
-      "recovered": 16.7
+      "date": "2026-06-28",
+      "recovered": 2.2
     }
   ],
-  "alert": "Watch",
+  "alert": "Advisory",
   "erupting": false,
   "forecast": null
 }
