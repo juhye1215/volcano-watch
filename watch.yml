@@ -1,0 +1,34 @@
+name: Kīlauea watch
+
+on:
+  schedule:
+    - cron: '0 20 * * *'   # 20:00 UTC ≈ 10:00 AM HST, after HVO's daily update posts
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write           # allows saving updated tilt readings back to the repo
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Check Kīlauea and send email
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+        run: python monitor.py
+
+      - name: Save tilt readings
+        run: |
+          git config user.name  "kilauea-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "update tilt readings"
+          git push
