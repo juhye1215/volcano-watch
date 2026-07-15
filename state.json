@@ -70,9 +70,13 @@
     {
       "date": "2026-07-14",
       "recovered": 0.0
+    },
+    {
+      "date": "2026-07-15",
+      "recovered": 0.0
     }
   ],
-  "alert": "Advisory",
+  "alert": "Watch",
   "erupting": false,
-  "forecast": null
+  "forecast": "Daily Updates are posted here: https://www.usgs.gov/observatories/hvo/observatory-messages Summit Observations:Precursory activity began from the north vent yesterday afternoon (most likely 4 overflows between 3 and 4 p.m. HST, the longest lasting over 30 minutes. Activity then paused when inflation leveled off. Summit inflation resumed later in the evening. Overflows began from the south vent at 2:08 and 2:32 a.m. HST that lasted less than 5 minutes each. After a brief pause, short overflows from the north vent occurred at 4:27 and 4:42 a.m. HST. These were immediately followed by the onset of a vigorous overflow fed by 10-30 foot (3-10 meter) high dome fountains from the north vent at 4:47 a.m. HST that continues at this time. Steady, low-level seismic tremor yesterday was replaced by sharp tremor spikes at about 5:30 p.m. HST that continued until just before 3:00 a.m. HST this morning. These occurred roughly every 10 minutes and were correlated with bright glow from the south vent, presumably due to drainback events related to gas pistoning in the vent. After 3 a.m. HST, steady low level tremor returned and continues at this time.Earthquake activity picked up significantly just before noon yesterday beneath Halema\u02bbuma\u02bbu and the southern caldera region. There have been 34 locatable earthquakes (and many smaller earthquakes) since then, mostly less than magnitude 1. Activity dropped off just after midnight.K\u012blauea summit has recorded about 16.7 microradians of inflationary tilt since the end of episode 50, exceeding the target inflation of 15.3 microradians lost during episode 50. Tilt has increased in a stair stepped fashion since recovering from the long deflationary trend that began on Saturday morning, July 11. Tilt has been relatively flat since the transition from gas pistoning to steady tremor at 3 a.m. this morning. The sulfur dioxide (SO2) emission rate from the summit is likely now varying within a typical range of 1,000 to 5,000 tonnes per day.Rift Zone Observations:Rates of seismicity and ground deformation remain low in the East Rift Zone and Southwest Rift Zone. SO2 emissions from the East Rift Zone remain below the detection limit. Analysis:Inflation has exceed the target value by over 1 microradian and inflation based forecast models are no longer valid.Based on observational data, episode 51 is)"
 }
