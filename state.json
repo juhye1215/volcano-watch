@@ -18,9 +18,13 @@
     {
       "date": "2026-07-19",
       "recovered": 6.6
+    },
+    {
+      "date": "2026-07-20",
+      "recovered": 8.0
     }
   ],
   "alert": "Advisory",
   "erupting": false,
-  "forecast": "July 24 and July 30 (most likely July 26-28)"
+  "forecast": "July 24 and July 28 (most likely July 25-27)"
 }
