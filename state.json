@@ -46,6 +46,10 @@
     {
       "date": "2026-08-09",
       "recovered": 0.0
+    },
+    {
+      "date": "2026-08-10",
+      "recovered": 0.0
     }
   ],
   "alert": "Advisory",
