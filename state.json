@@ -42,9 +42,13 @@
     {
       "date": "2026-08-23",
       "recovered": 0.0
+    },
+    {
+      "date": "2026-08-24",
+      "recovered": 0.0
     }
   ],
   "alert": "Advisory",
   "erupting": false,
-  "forecast": null
+  "forecast": "August 25 and August 28 (most likely Tuesday to Wednesday)"
 }
