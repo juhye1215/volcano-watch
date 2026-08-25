@@ -48,7 +48,7 @@
       "recovered": 0.0
     }
   ],
-  "alert": "Advisory",
-  "erupting": false,
-  "forecast": "August 25 and August 28 (most likely Tuesday to Wednesday)"
+  "alert": "Watch",
+  "erupting": true,
+  "forecast": null
 }
