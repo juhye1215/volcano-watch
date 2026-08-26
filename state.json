@@ -1,54 +1,14 @@
 {
-  "episode": 53,
-  "end": "2026-08-13",
+  "episode": 54,
+  "end": "2026-08-25",
   "deflation": 14.7,
   "readings": [
     {
-      "date": "2026-08-13",
-      "recovered": 2.2
-    },
-    {
-      "date": "2026-08-14",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-15",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-17",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-18",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-19",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-20",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-21",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-22",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-23",
-      "recovered": 0.0
-    },
-    {
-      "date": "2026-08-24",
+      "date": "2026-08-26",
       "recovered": 0.0
     }
   ],
-  "alert": "Watch",
-  "erupting": true,
+  "alert": "Advisory",
+  "erupting": false,
   "forecast": null
 }
