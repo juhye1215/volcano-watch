@@ -18,6 +18,10 @@
     {
       "date": "2026-08-29",
       "recovered": 0.0
+    },
+    {
+      "date": "2026-08-30",
+      "recovered": 0.0
     }
   ],
   "alert": "Advisory",
