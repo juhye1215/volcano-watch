@@ -61,6 +61,6 @@
     }
   ],
   "alert": "Watch",
-  "erupting": false,
+  "erupting": true,
   "forecast": null
 }
